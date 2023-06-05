@@ -1,0 +1,250 @@
+
+--2023-06-05 11:11:39--  https://play.pokemonshowdown.com/audio/cries/src/hakamoo.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 97174 (95K) [audio/x-wav]
+Saving to: ‘cries/src/hakamoo.wav’
+
+
+
+2023-06-05 11:11:39 (845 KB/s) - ‘cries/src/hakamoo.wav’ saved [97174/97174]
+
+--2023-06-05 11:11:39--  https://play.pokemonshowdown.com/audio/cries/src/happiny.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 107934 (105K) [audio/x-wav]
+Saving to: ‘cries/src/happiny.wav’
+
+
+
+2023-06-05 11:11:40 (968 KB/s) - ‘cries/src/happiny.wav’ saved [107934/107934]
+
+--2023-06-05 11:11:40--  https://play.pokemonshowdown.com/audio/cries/src/hariyama.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 154638 (151K) [audio/x-wav]
+Saving to: ‘cries/src/hariyama.wav’
+
+     0K .......... .......... .......... .......... .......... 33%  507K 0s
+    50K .......... .......... .......... .......... .......... 66% 3.60M 0s
+   100K .......... .......... .......... .......... .......... 99% 5.69M 0s
+   150K .                                                     100% 16.7M=0.1s
+
+2023-06-05 11:11:40 (1.22 MB/s) - ‘cries/src/hariyama.wav’ saved [154638/154638]
+
+--2023-06-05 11:11:40--  https://play.pokemonshowdown.com/audio/cries/src/haunter.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 237246 (232K) [audio/x-wav]
+Saving to: ‘cries/src/haunter.wav’
+
+     0K .......... .......... .......... .......... .......... 21% 3.84M 0s
+    50K .......... .......... .......... .......... .......... 43%  505K 0s
+   100K .......... .......... .......... .......... .......... 64%  534K 0s
+   150K .......... .......... .......... .......... .......... 86% 2.70M 0s
+   200K .......... .......... .......... .                    100%  148M=0.2s
+
+2023-06-05 11:11:41 (1.01 MB/s) - ‘cries/src/haunter.wav’ saved [237246/237246]
+
+--2023-06-05 11:11:41--  https://play.pokemonshowdown.com/audio/cries/src/hawlucha.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 187556 (183K) [audio/x-wav]
+Saving to: ‘cries/src/hawlucha.wav’
+
+     0K .......... .......... .......... .......... .......... 27%  621K 0s
+    50K .......... .......... .......... .......... .......... 54% 3.99M 0s
+   100K .......... .......... .......... .......... .......... 81% 3.69M 0s
+   150K .......... .......... .......... ...                  100% 6.55M=0.1s
+
+2023-06-05 11:11:42 (1.61 MB/s) - ‘cries/src/hawlucha.wav’ saved [187556/187556]
+
+--2023-06-05 11:11:42--  https://play.pokemonshowdown.com/audio/cries/src/haxorus.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 283182 (277K) [audio/x-wav]
+Saving to: ‘cries/src/haxorus.wav’
+
+     0K .......... .......... .......... .......... .......... 18%  440K 1s
+    50K .......... .......... .......... .......... .......... 36% 1.00M 0s
+   100K .......... .......... .......... .......... .......... 54% 5.32M 0s
+   150K .......... .......... .......... .......... .......... 72% 1.20M 0s
+   200K .......... .......... .......... .......... .......... 90% 3.27M 0s
+   250K .......... .......... ......                          100% 2.01M=0.2s
+
+2023-06-05 11:11:42 (1.13 MB/s) - ‘cries/src/haxorus.wav’ saved [283182/283182]
+
+--2023-06-05 11:11:42--  https://play.pokemonshowdown.com/audio/cries/src/heatmor.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 283182 (277K) [audio/x-wav]
+Saving to: ‘cries/src/heatmor.wav’
+
+     0K .......... .......... .......... .......... .......... 18%  498K 0s
+    50K .......... .......... .......... .......... .......... 36% 3.95M 0s
+   100K .......... .......... .......... .......... .......... 54%  584K 0s
+   150K .......... .......... .......... .......... .......... 72% 1.16M 0s
+   200K .......... .......... .......... .......... .......... 90% 2.96M 0s
+   250K .......... .......... ......                          100% 24.1M=0.3s
+
+2023-06-05 11:11:43 (1.05 MB/s) - ‘cries/src/heatmor.wav’ saved [283182/283182]
+
+--2023-06-05 11:11:43--  https://play.pokemonshowdown.com/audio/cries/src/heatran.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 308754 (302K) [audio/x-wav]
+Saving to: ‘cries/src/heatran.wav’
+
+     0K .......... .......... .......... .......... .......... 16% 3.54M 0s
+    50K .......... .......... .......... .......... .......... 33%  610K 0s
+   100K .......... .......... .......... .......... .......... 49% 2.85M 0s
+   150K .......... .......... .......... .......... .......... 66% 4.10M 0s
+   200K .......... .......... .......... .......... .......... 82% 3.02M 0s
+   250K .......... .......... .......... .......... .......... 99% 3.49M 0s
+   300K .                                                     100% 2895G=0.2s
+
+2023-06-05 11:11:44 (1.90 MB/s) - ‘cries/src/heatran.wav’ saved [308754/308754]
+
+--2023-06-05 11:11:44--  https://play.pokemonshowdown.com/audio/cries/src/heliolisk.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 258824 (253K) [audio/x-wav]
+Saving to: ‘cries/src/heliolisk.wav’
+
+     0K .......... .......... .......... .......... .......... 19%  531K 0s
+    50K .......... .......... .......... .......... .......... 39% 3.49M 0s
+   100K .......... .......... .......... .......... .......... 59%  520K 0s
+   150K .......... .......... .......... .......... .......... 79% 1.32M 0s
+   200K .......... .......... .......... .......... .......... 98%  360K 0s
+   250K ..                                                    100% 5260G=0.4s
+
+2023-06-05 11:11:45 (665 KB/s) - ‘cries/src/heliolisk.wav’ saved [258824/258824]
+
+--2023-06-05 11:11:45--  https://play.pokemonshowdown.com/audio/cries/src/helioptile.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 187380 (183K) [audio/x-wav]
+Saving to: ‘cries/src/helioptile.wav’
+
+     0K .......... .......... .......... .......... .......... 27%  427K 0s
+    50K .......... .......... .......... .......... .......... 54% 7.25M 0s
+   100K .......... .......... .......... .......... .......... 81% 13.7M 0s
+   150K .......... .......... .......... ..                   100% 11.3M=0.1s
+
+2023-06-05 11:11:45 (1.37 MB/s) - ‘cries/src/helioptile.wav’ saved [187380/187380]
+
+--2023-06-05 11:11:45--  https://play.pokemonshowdown.com/audio/cries/src/heracross-mega.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 309020 (302K) [audio/x-wav]
+Saving to: ‘cries/src/heracross-mega.wav’
+
+     0K .......... .......... .......... .......... .......... 16%  475K 1s
+    50K .......... .......... .......... .......... .......... 33% 4.71M 0s
+   100K .......... .......... .......... .......... .......... 49%  590K 0s
+   150K .......... .......... .......... .......... .......... 66% 2.89M 0s
+   200K .......... .......... .......... .......... .......... 82% 3.51M 0s
+   250K .......... .......... .......... .......... .......... 99% 2.91M 0s
+   300K .                                                     100% 3390G=0.2s
+
+2023-06-05 11:11:46 (1.19 MB/s) - ‘cries/src/heracross-mega.wav’ saved [309020/309020]
+
+--2023-06-05 11:11:46--  https://play.pokemonshowdown.com/audio/cries/src/heracross.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 168582 (165K) [audio/x-wav]
+Saving to: ‘cries/src/heracross.wav’
+
+     0K .......... .......... .......... .......... .......... 30%  490K 0s
+    50K .......... .......... .......... .......... .......... 60% 1.42M 0s
+   100K .......... .......... .......... .......... .......... 91% 3.67M 0s
+   150K .......... ....                                       100% 21.1M=0.2s
+
+2023-06-05 11:11:46 (1.07 MB/s) - ‘cries/src/heracross.wav’ saved [168582/168582]
+
+--2023-06-05 11:11:46--  https://play.pokemonshowdown.com/audio/cries/src/herdier.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 84010 (82K) [audio/x-wav]
+Saving to: ‘cries/src/herdier.wav’
+
+     0K .......... .......... .......... .......... .......... 60%  459K 0s
+    50K .......... .......... .......... ..                   100%  363K=0.2s
+
+2023-06-05 11:11:47 (416 KB/s) - ‘cries/src/herdier.wav’ saved [84010/84010]
+
+--2023-06-05 11:11:47--  https://play.pokemonshowdown.com/audio/cries/src/hippopotas.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 252026 (246K) [audio/x-wav]
+Saving to: ‘cries/src/hippopotas.wav’
+
+     0K .......... .......... .......... .......... .......... 20%  172K 1s
+    50K .......... .......... .......... .......... .......... 40%  162K 1s
+   100K .......... .......... .......... .......... .......... 60%  357K 0s
+   150K .......... .......... .......... .......... .......... 81%  392K 0s
+   200K .......... .......... .......... .......... ......    100%  258K=1.0s
+
+2023-06-05 11:11:49 (235 KB/s) - ‘cries/src/hippopotas.wav’ saved [252026/252026]
+
+--2023-06-05 11:11:49--  https://play.pokemonshowdown.com/audio/cries/src/hippowdon.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 303082 (296K) [audio/x-wav]
+Saving to: ‘cries/src/hippowdon.wav’
+
+     0K .......... .......... .......... .......... .......... 16%  156K 2s
+    50K .......... .......... .......... .......... .......... 33% 1.41M 1s
+   100K .......... .......... .......... .......... .......... 50%  610K 0s
+   150K .......... .......... .......... .......... .......... 67% 2.43M 0s
+   200K .......... .......... .......... .......... .......... 84% 4.34M 0s
+   250K .......... .......... .......... .......... .....     100% 4.63M=0.5s
+
+2023-06-05 11:11:50 (620 KB/s) - ‘cries/src/hippowdon.wav’ saved [303082/303082]
+
+--2023-06-05 11:11:50--  https://play.pokemonshowdown.com/audio/cries/src/hitmonchan.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 179902 (176K) [audio/x-wav]
+Saving to: ‘cries/src/hitmonchan.wav’
+
+     0K .......... .......... .......... .......... .......... 28%  470K 0s
+    50K .......... .......... .......... .......... .......... 56% 3.15M 0s
+   100K .......... .......... .......... .......... .......... 85%  495K 0s
+   150K .......... .......... .....                           100% 4.37M=0.2s
+
+2023-06-05 11:11:50 (768 KB/s) - ‘cries/src/hitmonchan.wav’ saved [179902/179902]
+
+--2023-06-05 11:11:50--  https://play.pokemonshowdown.com/audio/cries/src/hitmonlee.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 184310 (180K) [audio/x-wav]
+Saving to: ‘cries/src/hitmonlee.wav’
+
+     0K .......... .......... .......... .......... .......... 27%  785K 0s
+    50K .......... .......... .......... .......... .......... 55%  955K 0s
+   100K .......... .......... .......... .......... .......... 83% 1.69M 0s
+   150K .......... .......... .........                       100% 5.89M=0.1s
+
+2023-06-05 11:11:51 (1.17 MB/s) - ‘cries/src/hitmonlee.wav’ saved [184310/184310]
+
+--2023-06-05 11:11:51--  https://play.pokemonshowdown.com/audio/cries/src/hitmontop.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 140510 (137K) [audio/x-wav]
+Saving to: ‘cries/src/hitmontop.wav’
+
+     0K .......... .......... .......... .......... .......... 36%  332K 0s
+    50K .......... .......... .......... .......... .......... 72% 3.51M 0s
+   100K .......... .......... .......... .......              100% 5.50M=0.2s
+
+2023-06-05 11:11:53 (801 KB/s) - ‘cries/src/hitmontop.wav’ saved [140510/140510]
+
+--2023-06-05 11:11:53--  https://play.pokemonshowdown.com/audio/cries/src/honchkrow.wav
+Reusing existing connection to play.pokemonshowdown.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 232738 (227K) [audio/x-wav]
+Saving to: ‘cries/src/honchkrow.wav’
+
+     0K .......... .......... .......... .......... .......... 21% 77.0K 2s
+    50K .......... .......... .......... .......... ....
